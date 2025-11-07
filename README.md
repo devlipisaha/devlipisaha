@@ -1,5 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Lipi Saha</h1>
+<img src="https://i.ibb.co.com/VpPybLxJ/Professional-Full-Stack-Web-Designer-Developer-Word-Press-Expert-3.png">
+
 <h3 align="center">Professional Web Designer & Developer | WordPress Expert | Helping Businesses Build Beautiful, Functional & Growth-Focused Websites | Designing seamless, responsive websites that captivate visitors and drive results.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devlipisaha&label=Profile%20views&color=0e75b6&style=flat" alt="devlipisaha" /> </p>
